@@ -2,7 +2,7 @@
 # Michael Bao - UCSD B.S. Mathematics, Computer Science
 
 Yield monitoring and defect-pattern analysis on the WM-811K wafer map dataset, structured like a weekly yield review for a packaging and test program.
-
+Full write-up: [reports/wafer_yield_report.pdf](reports/wafer_yield_report.pdf)
 ## status
 
 | phase | scope | state |
